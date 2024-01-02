@@ -1,0 +1,148 @@
+.text:hover{
+    color: #1779ba;
+    cursor: pointer;
+}
+
+.text{
+    padding-left: 50px;
+    float: left ; 
+    font-weight: bolder;
+}
+
+.row5{
+    float: left;
+    width: 9%;
+    background-color:#f8f8f8;
+    text-align: center;
+}
+
+.print{
+    padding-left: 180px;
+    background-color:#f8f8f8;
+}
+
+.row3{
+    background-image:url(lenovoimages/60.jpg);
+    height: 580px;
+    background-repeat : no-repeat;
+    background-size: 100% 580px;
+}
+
+.column{
+    float: left;
+    margin-left: 50px;
+    width: 50%;
+    color: white;
+}
+
+.one{
+    font-size: 50px;
+    line-height: 2;
+}
+
+.two{
+    font-size: 20px;
+    line-height: 3;
+}
+
+.four{
+    font-size: 20px;
+    padding-right: 80px;
+}
+
+.four:hover{
+    cursor: pointer;
+    color: green;
+}
+
+.button2:hover{
+    background-color: white;
+    color: #0e5780;
+}
+
+.button2{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 8px;
+    cursor: pointer;
+    background-color: #0e5780;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.para{
+    float: left;
+    margin-left: 50px;
+    width: 50%;
+}
+
+.onne{
+    content: "";
+    clear: both;
+    display: table;
+} 
+
+.toe{
+    text-align: center;
+    float: left;
+    width: 18%;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.thhree{
+    text-align: center;
+    float: left;
+    width: 25%;
+}
+
+.foour{
+    text-align: center ;
+    float: left;
+    width: 32%;
+}
+
+.me{
+    float: left;
+    margin-right: 850px;
+    margin-left: 50px;
+}
+
+.text1:hover{
+    color: #1779ba;
+    cursor: pointer;
+}
+
+.text1{
+    padding-left: 92px;
+    float: left ; 
+    font-weight: bolder;
+    font-family:"Lato",Helvetica,Arial,sans-serif;
+    background-color: #bbb;
+}
+
+.text2:hover{
+    color: #1779ba;
+    cursor: pointer;
+}
+
+.text2{
+    padding-left: 9px;
+    float: left ; 
+    font-weight:530;
+    font-family:"Lato",Helvetica,Arial,sans-serif;
+    background-color: #bbb;
+}
+
+.wwe{
+    margin-left: 50px;
+}
+
+.wee{
+    margin-top: 40px;
+}

@@ -1,0 +1,186 @@
+.one{
+    background-color: #001428;
+    color: white;
+} 
+
+.two{
+    float: left;
+    font-size: 20px;
+    color: white;
+}
+
+.row{
+    display: table;
+    content: "";
+    clear: both;
+    width: 100%;
+}
+
+.wo{
+    padding: 10px 30px;
+    width: 40%;
+}
+
+.to{
+    padding-left: 25px;
+}
+
+.three{
+    float: right;
+    padding-left: 15px;
+    font-size: 20px;
+    color: white;
+}
+
+.vo{
+    padding-right: 15px;
+}
+
+#one{
+    float: left;
+    width: 50%;
+    background-color: white;
+}
+
+.four{
+    font-size: 50px;
+    line-height: 2;
+    color: black;
+}
+
+.five{
+    font-size: 40px;
+    line-height: 1;
+    color: black;
+}
+
+.six{
+    font-size: xx-large;
+    line-height: 1.5;
+    color: black;
+}
+
+.si{
+    font-size: 20px;
+    color: black;
+}
+
+.blue{
+    color: blue;
+}
+
+.button{
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 15px;
+}
+
+.seven{
+    float: left;
+    width: 20%;
+    text-align: center;
+    background-color: #0b1e32;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.eight{
+    float: left;
+    width: 31.5%;
+    background-color: #0b1e32;
+    color: white;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.button2{
+    background-color: #0b1e32;
+    color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin: 25px 10px;
+    padding: 10px 25px;
+}
+
+.button2:hover{
+    cursor: pointer;
+}
+
+.nine{
+    float: left;
+    width: 49%;
+}
+
+.ten{
+    float: left;
+    width: 20%;
+    background-color:#0b1e32 ;
+    color: white;
+    text-align: center;
+}
+
+#win{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.eleven{
+    font-size: 50px;
+    line-height: 2;
+}
+
+.button3{
+    background-color: #0b1e32;
+    color: white;
+    margin: 5px 15px;
+    border-radius: 15px;
+    padding: 10px 15px;
+    border:none;
+}
+
+.twe{
+    background-color: #0b1e32;
+}
+
+.ther{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    line-height: 2;
+}
+
+.button4{
+    background-color: #ff554d;
+    color: white;
+    border-radius:0px 15px 15px 0px ;
+    padding: 4px;
+}
+
+.nnnn{
+    float: left;
+    width: 32%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.omm{
+    float: left;
+    width: 17%;
+    margin-left: 30px;
+}
+
+.heig{
+    height: 150px;
+}
+
+.hei{
+    height: 300px;
+}
+
+.tuuu{
+    text-align: center;
+}

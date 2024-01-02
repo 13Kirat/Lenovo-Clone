@@ -1,0 +1,255 @@
+.row1{
+    text-align: center;
+    background-color: #ef8822;
+    color: white;
+    font-size: 25px;
+    padding: 10px 0px;
+}
+
+.button{
+    background-color: #000;
+    color: white;
+    line-height: 2;
+}
+
+.button:hover{
+    background-color: white;
+    color: #e2231a;
+}
+
+.text:hover{
+    color: #1779ba;
+    cursor: pointer;
+}
+
+.text{
+    padding-left: 50px;
+    float: left ; 
+    font-weight: bolder;
+    font-family:"Lato",Helvetica,Arial,sans-serif;
+}
+
+.row2{
+    float: left;
+    padding-left: 20px;
+    background-color:#f8f8f8;
+}
+
+.row2:hover{
+    color: #e2231a;
+}
+
+.second{
+    padding-left: 200px;
+    background-color:#f8f8f8;
+}
+
+.row3{
+    background-image:url(lenovoimages/25.jpg);
+    height: 670px;
+    background-repeat : no-repeat;
+    background-size: 100% 670px;
+}
+
+.column{
+    margin-left: 50px;
+    float: left;
+    width: 50%;
+    color: white;
+}
+
+.one{
+    font-size: 70px;
+    line-height: 2;
+    color: white;
+}
+
+.two{
+    font-size: 40px;
+    line-height: 1.5;
+    color: white;
+}
+
+.three{
+    font-size: 30px;
+    line-height: 1.5;
+    color: white;
+}
+
+.four{
+    font-size: 20px;
+    color: white;
+}
+
+.four:hover{
+    cursor: pointer;
+    color: green;
+}
+
+.button2:hover{
+    background-color: white;
+    color: #0e5780;
+}
+
+.button2{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 8px;
+    cursor: pointer;
+    background-color: #0e5780;
+}
+
+.col{
+    float: left;
+    width: 20%;
+    text-align: center;
+    background-color:#ddd ;
+    line-height: 2;
+    font-size: large;
+}
+
+.col:hover{
+    background-color: white;
+    cursor: pointer;
+    color: black;
+}
+
+.col5{
+    text-align: center;
+    background-color:#ddd ;
+    line-height: 2;
+    font-size: medium;
+    padding-bottom: 3px;
+}
+
+.col5:hover{
+    background-color: white;
+    cursor: pointer;
+    color: black;
+}
+
+.ro{
+    float: left;
+    width: 100%;
+}
+
+.co{
+    float: left;
+    width: 20%;
+    background-color: #eee;
+}
+
+.me{
+    float: left;
+    margin-right: 850px;
+    margin-left: 50px;
+}
+
+.text1:hover{
+    color: #1779ba;
+    cursor: pointer;
+}
+
+.text1{
+    padding-left: 92px;
+    float: left ; 
+    font-weight: bolder;
+    font-family:"Lato",Helvetica,Arial,sans-serif;
+    background-color: #bbb;
+}
+
+.text2:hover{
+    color: #1779ba;
+    cursor: pointer;
+}
+
+.text2{
+    padding-left: 9px;
+    float: left ; 
+    font-weight:530;
+    font-family:"Lato",Helvetica,Arial,sans-serif;
+    background-color: #bbb;
+}
+
+.hello{
+    background-image: url(lenovoimages/108.jpg);
+    float: left;
+    height: 300px;
+    background-size: 100% 300px;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: white;
+    width: 30%;
+    font-size: larger;
+    text-align: center;
+    line-height: 2;
+    font-weight: 1000;
+}
+
+.hero{
+    width: 100%;
+}
+
+.zero{
+    display: none;
+}
+
+.hero:hover + .zero{
+    cursor: pointer;
+    display: block;
+    color: white;
+}
+
+.wow{
+    content:"" ;
+    display: table;
+    clear: both;
+    width: 100%;
+    height: 150px;
+}
+
+.row5{
+    float: left;
+    background-color:#f8f8f8;
+    text-align: center;
+}
+
+.print{
+    padding-left: 150px;
+    background-color:#f8f8f8;
+}
+
+:root {
+    --star-size: 30px;
+    --star-color: #fff;
+    --star-background: #fc0;
+  }
+  
+  .Stars {
+    --percent: calc(var(--rating) / 5 * 100%);
+    display: inline-block;
+    font-size: var(--star-size);
+    font-family: Times;
+    line-height: 1;
+  }
+
+  .Stars::before {
+    content: "★★★★★";
+    letter-spacing: 3px;
+    background: linear-gradient(90deg, var(--star-background) var(--percent), var(--star-color) var(--percent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .row{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  

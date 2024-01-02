@@ -1,0 +1,185 @@
+.text:hover{
+    color: #1779ba;
+    cursor: pointer;
+}
+
+.text{
+    padding-left: 50px;
+    float: left ; 
+    font-weight: bolder;
+    font-family:"Lato",Helvetica,Arial,sans-serif;
+}
+
+.rrr{
+    align-items: center;
+    content:"" ;
+    display: table;
+    width: 100%;
+    clear: both;
+}
+
+.rthree{
+    text-align: center;
+    float: left;
+    width: 15%;
+    padding-left: 60px;
+}
+
+.me{
+    float: left;
+    margin-right: 850px;
+    margin-left: 50px;
+}
+
+.text1:hover{
+    color: #1779ba;
+    cursor: pointer;
+}
+
+.text1{
+    padding-left: 92px;
+    float: left ; 
+    font-weight: bolder;
+    font-family:"Lato",Helvetica,Arial,sans-serif;
+    background-color: #bbb;
+}
+
+.text2:hover{
+    color: #1779ba;
+    cursor: pointer;
+}
+
+.text2{
+    padding-left: 9px;
+    float: left ; 
+    font-weight:530;
+    font-family:"Lato",Helvetica,Arial,sans-serif;
+    background-color: #bbb;
+}
+
+.rrrr{
+    background-image: url(lenovoimages/37.jpg);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 1350px 800px;
+}
+
+.wowo{
+    float: left;
+    width: 40%;
+    margin-left: 50px;
+    margin-top: 100px ;
+    color: white;
+}
+
+span{
+    font-size: xx-large;
+}
+
+#two{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#three{
+    font-size: x-large;
+    line-height: 2;
+}
+
+.button{
+    padding: 25px;
+    margin-left: 70px;
+    margin-top: 100px;
+    background-color: #4ac0e0 ;
+    color: white;
+}
+
+.button:hover{
+    background-color: white ;
+    color:#4ac0e0;
+}
+
+.color{
+    width: 100%;
+    height: 30px;
+    clear: both;
+    display: table;
+}
+
+.bg{
+    background-color: white;
+}
+
+.red{
+    background-color: #bbb;
+    color: white;
+
+    border: 1px solid;
+    font-size: large;
+    float: left;
+    width: 18%;
+    height: 30px;
+    text-align: center;
+}
+
+.red:hover{
+    background-color: white;
+    color: #bbb;
+}
+
+.five{
+    float: left;
+    width: 33%;
+    font-size: 20px;
+}
+
+.five:hover{
+    color: green;
+}
+
+.six{
+    float: left;
+    margin-left: 10px;
+    width: 18%;
+    padding-left: 13px;
+    height: 400px;
+    background-color: #ccc;
+    text-align: center;
+    font-size: larger;
+}
+
+.zero{
+    display: none;
+    font: 15px;
+}
+
+.hero:hover + .zero{
+    cursor: pointer;
+    display: block;
+    color: white;
+}
+
+.hero{
+    width: 100%;
+   
+}
+
+.hello{
+    background-image: url(lenovoimages/111.jpg);
+    background-size: 100% 200px;
+    color: white;
+    float: left;
+    height: 200px;
+    margin-left: 10px;
+    width: 32%;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 10px;
+    line-height: 2;
+    font-weight: 1000;
+}
+
+#hello{
+    margin-left: 250px;
+}
